@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This project involves creating an educational test generator.  There will be student and teacher profiles where tests can be created and test scores saved.   Question types include multiple choice, true/false, and short answer.  Students can take tests and see their grades.  Teachers will be able to set a due date and see the class scores.
+I chose this project because I thought about what kind of features I wanted to build and learn about.  I wanted to use a persistent database and learn how to do a login and authentication.   
 ### Features
-Include Features here
+- User Login: Teacher and student profiles
+- Choose question type:  Different test question types
+- Answer Randomization:  Ability to take a test with multiple choice answers presented in random order
+- Add Photos/Graphics:  Ability to link a photo via a web link
+- Gradebook:   Test scores saved.  Students can see own scores, while teachers can see scores for entire class.
 ### Technologies
-Include Technologies here
+- C#, .Net MVC Framework
+- HTML
+- Bootstrap
 ### What I'll Have to Learn
-Include what you will need to learn here
+- How to create a login & password
+- Learn authentication better
+- Learn how to set different permissions for different user types
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/liftoffproject12345
